@@ -28,13 +28,3 @@ Manual inspection of shoe soles is time-consuming and prone to errors. Automatin
 - Dataset split: **80% training, 20% validation**
 - Annotations saved in YOLO format (`.txt`) corresponding to images.
 
----
-
-## ⚙️ Requirements
-- Python 3.8+
-- PyTorch
-- OpenCV
-- YOLOv5 or YOLOv8
-- Other Python packages:
-```bash
-pip install -r requirements.txt
